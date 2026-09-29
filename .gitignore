@@ -1,0 +1,5 @@
+# editor cache
+.joycode/
+
+# backup archives
+*.zip
